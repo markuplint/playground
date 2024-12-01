@@ -1955,10 +1955,10 @@
     loupe "^3.1.1"
     tinyrainbow "^1.2.0"
 
-"@webcontainer/api@1.3.0-internal.2":
-  version "1.3.0-internal.2"
-  resolved "https://registry.yarnpkg.com/@webcontainer/api/-/api-1.3.0-internal.2.tgz#26afa0548bcf468b74f03dc56993ba287ebfb0e8"
-  integrity sha512-lLSlSehbuYc9E7ecK+tMRX4BbWETNX1OgRlS+NerQh3X3sHNbxLD86eScEMAiA5VBnUeSnLtLe7eC/ftM8fR3Q==
+"@webcontainer/api@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@webcontainer/api/-/api-1.5.0.tgz#15d2665706cbc05f1f9ccf1ff8a1f1fe0720cbd7"
+  integrity sha512-Xb4PdQh5BjRbsndO9a5KmRw8n35GamRng6UrRA22XSCuT0Ze5HsKhq0//diIavnjURGm58PXeFwrN1oPfU/flQ==
 
 "@xterm/xterm@^5.5.0":
   version "5.5.0"
